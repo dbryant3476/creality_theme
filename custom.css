@@ -5,17 +5,17 @@ This is a dark-mode theme vyper for mainsail
 :root {
     --Primary:        #282a36;    /*Voron:Black*/
     --Secondary:      #ff5555;    /*Voron:Red*/
-    --c_blue:         #00eafb;    /*cryd_blue*/
+    --c_blue:         #3983cd;    /*Blue picked from a Creality image*/
     --c_gray:         #2b2b2b;    /*cryd:grey*/
-    --Blue:           #00eafb; 
+    --Blue:           #3983cd; 
     --Red:            #ff5555;
-    --Warnings:       #00eafb;
+    --Warnings:       #3983cd;
     --Text:           #f8f8f2;
     --DarkerText:     #f5f5f2;
     --Background:     #44475a;
     --DarkBackground: #282a36;
     --Toolbars:       #44475a;
-    --Sheets:         #282a36;   
+    --Sheets:         #282a36;     
 }
 
 #nav-header .v-toolbar__title {
